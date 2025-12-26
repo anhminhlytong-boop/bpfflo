@@ -1,0 +1,64 @@
+ó
+
+    ’8iÎ	  ă                   ó  • S r SSKJr  SSKJr  SSKJr  SSKJ	r
+  \R                  " 5       r\R                  " 5       R                  S5      r\" 5       r\
+R"                  " \\5        \
+R$                  " \S\5        \R&                  S:X  aD  S	\l        S
+\S   l        S\S   l        S
+\S   l        S\S   l        S\S   l        S\S   l        g	g	)zGenerated protocol buffer code.é    )Ú
+descriptor)Údescriptor_pool)Úsymbol_database)Úbuilders§  
+MajorLoginRes.proto"‡
+
+MajorLoginRes
+
+account_id (
+lock_region (	
+noti_region (	
+	ip_region (	
+agora_environment (	
+new_active_region (	
+token (	
+ttl	 (
+
+server_url
+ (	
+emulator_score (2
+	blacklist
+ (2.MajorLoginRes.BlacklistInfoRes1
+
+queue_info (2.MajorLoginRes.LoginQueueInfo
+tp_url (	
+
+app_server_id (
+ano_url (	
+ip_city (	
+ip_subdivision (	
+kts (
+
+ak (
+aiv (Q
+BlacklistInfoRes
+
+ban_reason (
+expire_duration (
+ban_time (f
+LoginQueueInfo
+Allow (
+queue_position (
+need_wait_secs (
+
+queue_is_full (bproto3ÚMajorLoginRes_pb2FNé   Ú_MAJORLOGINRESiŸ  iæ  Ú_MAJORLOGINRES_BLACKLISTINFORESi7  i9  Ú_MAJORLOGINRES_LOGINQUEUEINFO)Ú__doc__Úgoogle.protobufr   Ú_descriptorr   Ú_descriptor_poolr   Ú_symbol_databaseÚgoogle.protobuf.internalr   Ú_builderÚDefaultÚ_sym_dbÚAddSerializedFileÚ
+DESCRIPTORÚglobalsÚ_globalsÚBuildMessageAndEnumDescriptorsÚBuildTopDescriptorsAndMessagesÚ_USE_C_DESCRIPTORSÚ_optionsÚ_serialized_startÚ_serialized_end© ó    ÚLC:\Users\Nika\Downloads\Mini-Lvl-Up-Api\Mini-Lvl-Up-Api\MajorLoginRes_pb2.pyÚ<module>r"      sá   đñ
+ &Ư 5Ư ?Ư ?Ư 8đ ×
+"̉
+"Ó
+$€đ
+ ×
+%̉
+%Ó
+'×
+9Ñ
+9đ  ;Só  T€
+á‹9€Ø × '̉ '¨
+°HÔ =Ø × '̉ '¨
+Đ4GÈÔ RØ×!Ñ! UÓ*Ø€*ÔØ/1€(ĐÑÔ.Ø-0€(ĐÑÔ,Ø@C€(Đ,Ñ-Ô?Ø>A€(Đ,Ñ-Ô=Ø>A€(Đ*Ñ+Ô=Ø<?€(Đ*Ñ+Ơ;đ +r    
